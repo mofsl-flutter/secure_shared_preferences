@@ -17,6 +17,10 @@ dependencies:
   #encrypt: ^5.0.1
   cryptography: ^2.0.5
   cryptography_flutter: ^2.0.2
+  cryptography_flutter:
+  git:
+    url: https://github.com/mofsl-flutter/cryptography_flutter.git
+    ref: master 
 dev_dependencies:
   flutter_test:
     sdk: flutter
