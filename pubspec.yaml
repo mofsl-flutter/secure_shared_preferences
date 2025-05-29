@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/mofsl-flutter/flutter_secure_storage.git
       path: flutter_secure_storage
-      ref: master
+      ref: develop
 
   cryptography_flutter:
     git:
